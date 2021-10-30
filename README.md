@@ -1,3 +1,4 @@
+```py
 class flacreset():
     def __init__(self):
     self.username = "lolnan"
@@ -5,3 +6,4 @@ class flacreset():
     self.contact = {
     "Discord": "lolman#0001"
 }
+```
